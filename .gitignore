@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Datos y Modelos
+modelos/*.pt
+modelos/*.onnx
+database/rostros/*
+!database/rostros/.gitkeep
+
+# DB
+*.sqlite3
