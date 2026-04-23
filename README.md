@@ -1,24 +1,27 @@
 # Sistema-de-reconocimiento-facial
-Sistema de reconocimiento facial basado en visión computacional para detección y análisis de rostros en imágenes.
+Prototipo de sistema de reconocimiento facial basado en visión computacional para detección y análisis de rostros en imágenes.
 
-## Tecnologías
+## 🚀 Tecnologías
 - Python
 - YOLOv8
 - OpenCV
 
-## Funcionalidades
+## ⚙️ Funcionalidades actuales
 - Detección de rostros en imágenes
 - Procesamiento de datos visuales
-- Identificación de patrones mediante modelo preentrenado
 
-## Enfoque técnico
-El sistema utiliza YOLOv8 para la detección de objetos en tiempo real, aplicando técnicas de visión computacional para localizar y analizar rostros en imágenes.
+## 🔮 Potenciales aplicaciones
+- Control de acceso en sistemas
+- Identificación de usuarios
+- Seguridad y monitoreo
 
-## Resultados
-- Detección exitosa en distintos escenarios de prueba
-- Evaluación básica del modelo en condiciones variables
+## 📌 Estado
+Prototipo en desarrollo
 
 ## Instalación
 ```bash
 pip install -r requirements.txt
 python main.py
+```
+## ⚠️ Nota
+Actualmente el proyecto se encuentra en fase inicial, enfocado en pruebas y validación técnica.
