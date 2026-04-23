@@ -6,7 +6,7 @@ Sistema de reconocimiento facial basado en visión computacional para detección
 - YOLOv8
 - OpenCV
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 - Detección de rostros en imágenes
 - Procesamiento de datos visuales
 - Identificación de patrones mediante modelo preentrenado
